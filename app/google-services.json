@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167446612874",
+    "project_id": "gropilot-1ff56",
+    "storage_bucket": "gropilot-1ff56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167446612874:android:e89e49ece94886f6d91673",
+        "android_client_info": {
+          "package_name": "com.gromo.gropilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxZdEc7_OxdX0JVwvlfoniAJBuEbpMWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
